@@ -1,7 +1,13 @@
 # Blockchain-Reputation-Based-Consensus for private blockchain
+Each simulation contains especific files and codes due each simulation has a different goal.
 
-* Each simulation contains especific files and codes due each simulation has a different goal
+## Usage
+To run the simulation, specify the time *Simulation_steps* in the const.py file
+Others variables also can be defined in the const.py file
 
-* To run each of them just download and unzip the simulation, set a time and runs the main.py with python3
-
-* additional packages may be required
+Aditional Packages may be required.
+- Scipy
+- Threading
+- RSA
+- BloomFilter
+- Networkx
